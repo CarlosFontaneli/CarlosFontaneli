@@ -6,10 +6,10 @@ I am currently a Bachelor of Computer Science student at the Federal University 
 
 <div align="center" style="margin-top: 50px">
   <a href="https://www.ufscar.br/" target="_blank">
-    <img alt="stduy" height="400" style="margin-right: 50px" src="./imgs/student.png"/>
+    <img alt="stduy" height="200" style="margin-right: 50px" src="./imgs/student.png"/>
   </a>
   <a href="https://petbcc.ufscar.br/" target="_blank">
-    <img alt="pet_bcc" height="400" style="margin-left: 50px" src="./imgs/pet_bcc.png"/>
+    <img alt="pet_bcc" height="200" style="margin-left: 50px" src="./imgs/pet_bcc.png"/>
   </a>
 </div>
 
