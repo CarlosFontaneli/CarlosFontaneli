@@ -2,7 +2,7 @@
 
 # 👨 About me:
 
-I am currently a Bachelor of Computer Science student at the Federal University of São Carlos (UFSCar). In addition, I am part of the group Teaching and Tutoring Program Bachelor of Computer Science, a project of Ministery of Education of Brazil.
+I am currently a Bachelor of Computer Science student at the Federal University of São Carlos (UFSCar). In addition, I am part of the group Teaching and Tutoring Program Bachelor of Computer Science of UFSCar(Programa de Ensino e Tutoria em Bacharelado de Ciência da Computação - PET-BCC in portuguese), a project of Ministery of Education of Brazil.
 
 <div align="center" style="margin-top: 50px">
   <a href="https://www.ufscar.br/" target="_blank">
@@ -47,7 +47,7 @@ Listed below are some tools and tecnologies that I've been had some experience w
   <img alt="git" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="padding: 25px"/>
   <img alt="linux" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" style="padding: 25px"/>
   <img alt="r_language" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg"style="padding: 25px" />
-  <img alt="vscode_ide" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding: 25px"/>
+  <img alt="vscode_ide" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding: 25px"/>
   <img alt="css" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="padding: 25px"/>
   <img alt="html" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="padding: 25px"/>
 </div>
