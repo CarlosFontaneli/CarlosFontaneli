@@ -79,5 +79,4 @@ Abaixo tem algumas estatísticas sobre o que eu fiz e estudo em relação a impl
   <br><br>
   <a href="https://github.com/CarlosFontaneli">
   <img height="250px" width="45%" style="margin-right: 50px" src="https://github-readme-stats.vercel.app/api?username=CarlosFontaneli&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="250px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFontaneli&layout=compact&langs_count=5&theme=great-gatsby"/>
 </div>
