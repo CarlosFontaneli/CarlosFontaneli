@@ -2,7 +2,22 @@
 
 # 👨 About me:
 
-I am currently a Bachelor of Computer Science student at the Federal University of São Carlos (UFSCar). In addition, I am part of the group Teaching and Tutoring Program Bachelor of Computer Science of UFSCar(Programa de Ensino e Tutoria em Bacharelado de Ciência da Computação - PET-BCC in portuguese), a project of Ministery of Education of Brazil.
+Atualmente sou um graduando em Bacharelado em Ciência da Computação pela Universidade Federal de São Carlos(UFSCar). Durante a graduação fiz parte como bolsista do grupo Programa de Educação e Tutoria - Bacharelado em Ciência da Computação
+tive a oportunidade de aprender a trabalhar em equipe, melhorar minha comunicação e liderança de projetos. Além disso, tive contato com prototipação de telas e aplicativos, desenvolvimento web e mobile, e trabalhei com tecnologias como Git, Python e C.
+<br>
+Além disso, fiz parte, também como bolsista, do Projeto Integrador Extensionista - ¨Implementando a análise automática de dados do sistema Consulta Pública¨ trabalhei com Aprendizado de Máquina, com foco em modelos de Processamento de Linguagem Natural. Os modelos desenvolvidos buscavam extrair sentimentos de textos de consultas públicas. Ademais, fiz parte do desenvolvimento de API’s na AWS que buscavam utilizar os modelos criados para realizar uma análise automatizada dos dados. Dessa forma, tive muito contato com modelos estatísticos e Python, além de um contato inicial com FastApi, Docker e Javascript.
+<br>
+A área a qual tenho mais interesse e pretendo seguir como atuação profissional é o campo de Ciência de Dados. Tenho tido bastante contato na graduação com técnicas de visualização, tratamento e análise de dados.
+<br>
+Gosto bastante de estudar sobre modelos de aprendizado de máquina e como eles podem ser usados para predizer comportamento ou extrair padrões. Durante a graduação estou estudando diversas técnicas de aprendizado de máquina tanto supervisionado quanto não supervisionado. Dessa forma, fiz projetos que usavam modelos preditivos como Gaussian Naive Bayes e modelos de agrupamento como KMeans e agrupamento hierárquico.
+<br>
+(I am currently a Bachelor's degree student in Computer Science at the Federal University of São Carlos (UFSCar). During graduation I was part of the Education and Tutoring Program group - Bachelor of Computer Science I had the opportunity to learn how to work in a team, improve my communication and project leadership. Furthermore, I had contact with screen and application prototyping, web and mobile development, and worked with technologies such as Git, Python and C.
+<br>
+Also, I was part, also as a scholarship holder, of the Extensionist Integrator Project - ¨Implementing automatic data analysis of the Public Consultation system¨ I worked with Machine Learning, focusing on Natural Language Processing models. The developed models sought to extract feelings from public consultation texts. In addition, I was part of the development of APIs on AWS that sought to use the models created to perform an automated analysis of the data. In this way, I had a lot of contact with statistical models and Python, in addition to an initial contact with FastApi, Docker and Javascript.
+<br>
+The area in which I am most interested and intend to pursue as a professional activity is the field of Data Science. I have had a lot of contact in graduation with visualization techniques, treatment and data analysis.
+<br>
+I really enjoy learning about machine learning models and how they can be used to predict behavior or extract patterns. During graduation I'm studying several machine learning techniques both supervised and unsupervised. So I've done projects that used predictive models like Gaussian Naive Bayes and clustering models like KMeans and hierarchical clustering.)
 
 <div align="center" style="margin-top: 50px">
   <a href="https://www.ufscar.br/" target="_blank">
@@ -15,13 +30,12 @@ I am currently a Bachelor of Computer Science student at the Federal University 
 
 # 📱 My contacts:
 
-In case you have interest in talk to me, be welcome to send me messages by the below social medias:
+Caso você queira me contatar, sinta-se a vontade para me enviar mensagens através dos seguintes links:
+<br>
+(In case you have interest in talk to me, be welcome to send me messages by the below social medias:)
 
 <div align="center" style="margin-top: 50px"> 
   <br>
-  <a href="https://www.instagram.com/fontanelicarlos/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="margin-right: 50px" height="50px" >
-  </a>
   <a href = "mailto:contatocarlosfontaneli84@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="margin-right: 50px" height="50px">
   </a>
@@ -33,28 +47,33 @@ In case you have interest in talk to me, be welcome to send me messages by the b
 
 # 🧰 Tecnologies and tools:
 
-Listed below are some tools and tecnologies that I've been had some experience with.
+Abaixo segue algumas tecnologias que tenho estudado e/ou aprendi a usar:
+<br>
+(Listed below are some tools and tecnologies that I've been had some experience with.)
 
 <div align="center" style="margin-top: 50px">
   <br><br>
+  <img alt="python" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding: 25px"/>
+  <img alt="jupyter" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding: 25px"/>
+  <img alt="pandas" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding: 25px"/>
+  <img alt="numpy" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding: 25px"/>
+  <img alt="docker" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding: 25px"/>
   <img alt="c-language" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" style="padding: 25px"/>
-  <img alt="c_plus_plus-language" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="padding: 25px"/>
+  <img alt="c_plus_plus-language" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="padding: 25px"/><br>
   <img alt="java_script-language" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="padding: 25px"/>
-  <img alt="react_framework" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding: 25px"/>
-  <img alt="flutter_framework" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" style="padding: 25px"/>
   <img alt="bash" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding: 25px"/>
-  <br>
   <img alt="git" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="padding: 25px"/>
   <img alt="linux" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" style="padding: 25px"/>
   <img alt="r_language" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg"style="padding: 25px" />
   <img alt="vscode_ide" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding: 25px"/>
-  <img alt="css" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="padding: 25px"/>
-  <img alt="html" height="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="padding: 25px"/>
+
 </div>
 
 # 🖥️ My GitHub:
 
-Some estatistics about what I do and study, the data are from my GitHub:
+Abaixo tem algumas estatísticas sobre o que eu fiz e estudo em relação a implementações de projetos, os dados são do meu GitHub:
+<br>
+(Some estatistics about what I do and study, the data are from my GitHub:)
 
 <div align="center" style="margin-top: 50px">
   <br><br>
