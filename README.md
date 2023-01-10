@@ -1,6 +1,6 @@
 <img alt="introduction" style="margin-right: 50px" src="./imgs/Carlos_Eduardo_Fontaneli_en.png"/>
 
-# 👨 About me:
+# 👨 Sobre mim (About me):
 
 Atualmente sou um graduando em Bacharelado em Ciência da Computação pela Universidade Federal de São Carlos(UFSCar). Durante a graduação fiz parte como bolsista do grupo Programa de Educação e Tutoria - Bacharelado em Ciência da Computação
 tive a oportunidade de aprender a trabalhar em equipe, melhorar minha comunicação e liderança de projetos. Além disso, tive contato com prototipação de telas e aplicativos, desenvolvimento web e mobile, e trabalhei com tecnologias como Git, Python e C.
@@ -28,7 +28,7 @@ I really enjoy learning about machine learning models and how they can be used t
   </a>
 </div>
 
-# 📱 My contacts:
+# 📱 Meus contatos (My contacts):
 
 Caso você queira me contatar, sinta-se a vontade para me enviar mensagens através dos seguintes links:
 <br>
@@ -45,7 +45,7 @@ Caso você queira me contatar, sinta-se a vontade para me enviar mensagens atrav
   <br>
 </div>
 
-# 🧰 Tecnologies and tools:
+# 🧰 Tecnologias e ferramentas (Tecnologies and tools):
 
 Abaixo segue algumas tecnologias que tenho estudado e/ou aprendi a usar:
 <br>
@@ -69,7 +69,7 @@ Abaixo segue algumas tecnologias que tenho estudado e/ou aprendi a usar:
 
 </div>
 
-# 🖥️ My GitHub:
+# 🖥️ Meu GitHub (My GitHub):
 
 Abaixo tem algumas estatísticas sobre o que eu fiz e estudo em relação a implementações de projetos, os dados são do meu GitHub:
 <br>
