@@ -2,22 +2,26 @@
 
 # 👨 Sobre mim (About me):
 
-Atualmente sou um graduando em Bacharelado em Ciência da Computação pela Universidade Federal de São Carlos(UFSCar). Durante a graduação fiz parte como bolsista do grupo Programa de Educação e Tutoria - Bacharelado em Ciência da Computação
-tive a oportunidade de aprender a trabalhar em equipe, melhorar minha comunicação e liderança de projetos. Além disso, tive contato com prototipação de telas e aplicativos, desenvolvimento web e mobile, e trabalhei com tecnologias como Git, Python e C.
-<br><br>
-Além disso, fiz parte, também como bolsista, do Projeto Integrador Extensionista - ¨Implementando a análise automática de dados do sistema Consulta Pública¨ trabalhei com Aprendizado de Máquina, com foco em modelos de Processamento de Linguagem Natural. Os modelos desenvolvidos buscavam extrair sentimentos de textos de consultas públicas. Ademais, fiz parte do desenvolvimento de API’s na AWS que buscavam utilizar os modelos criados para realizar uma análise automatizada dos dados. Dessa forma, tive muito contato com modelos estatísticos e Python, além de um contato inicial com FastApi, Docker e Javascript.
-<br><br>
-A área a qual tenho mais interesse e pretendo seguir como atuação profissional é o campo de Ciência de Dados. Tenho tido bastante contato na graduação com técnicas de visualização, tratamento e análise de dados.
-<br><br>
-Gosto bastante de estudar sobre modelos de aprendizado de máquina e como eles podem ser usados para predizer comportamento ou extrair padrões. Durante a graduação estou estudando diversas técnicas de aprendizado de máquina tanto supervisionado quanto não supervisionado. Dessa forma, fiz projetos que usavam modelos preditivos como Gaussian Naive Bayes e modelos de agrupamento como KMeans e agrupamento hierárquico.
-<br><br>
-(I am currently a Bachelor's degree student in Computer Science at the Federal University of São Carlos (UFSCar). During graduation I was part of the Education and Tutoring Program group - Bachelor of Computer Science I had the opportunity to learn how to work in a team, improve my communication and project leadership. Furthermore, I had contact with screen and application prototyping, web and mobile development, and worked with technologies such as Git, Python and C.
-<br><br>
-Also, I was part, also as a scholarship holder, of the Extensionist Integrator Project - ¨Implementing automatic data analysis of the Public Consultation system¨ I worked with Machine Learning, focusing on Natural Language Processing models. The developed models sought to extract feelings from public consultation texts. In addition, I was part of the development of APIs on AWS that sought to use the models created to perform an automated analysis of the data. In this way, I had a lot of contact with statistical models and Python, in addition to an initial contact with FastApi, Docker and Javascript.
-<br><br>
-The area in which I am most interested and intend to pursue as a professional activity is the field of Data Science. I have had a lot of contact in graduation with visualization techniques, treatment and data analysis.
-<br><br>
-I really enjoy learning about machine learning models and how they can be used to predict behavior or extract patterns. During graduation I'm studying several machine learning techniques both supervised and unsupervised. So I've done projects that used predictive models like Gaussian Naive Bayes and clustering models like KMeans and hierarchical clustering.)
+Sobre mim
+
+Atualmente, sou um estudante de graduação em Ciência da Computação na Universidade Federal de São Carlos (UFSCar). Tenho a honra de atuar como estagiário no renomado instituto de pesquisa SiDi, onde estou imerso na empolgante área da visão computacional. Nesse papel, trabalho com soluções inovadoras que abrangem inteligência artificial, aprendizado de máquina e os conceitos fundamentais da visão computacional. É gratificante poder aplicar meus conhecimentos teóricos em projetos práticos e colaborar com uma equipe de especialistas.
+
+Além disso, estou atualmente envolvido em um projeto de iniciação científica, sendo bolsista PIBIC, que tem como foco a área de visão computacional, mais especificamente a interpretação de redes neurais. Estou entusiasmado com a oportunidade de aprofundar meus conhecimentos nesse campo fascinante, explorando métodos avançados para compreender e interpretar o funcionamento interno dessas redes complexas. Essa experiência está me proporcionando um valioso aprendizado e me permitindo contribuir para o avanço da área, com o objetivo de aplicar os resultados em soluções práticas.
+
+Durante minha trajetória acadêmica, tive a oportunidade de trabalhar como bolsista no grupo Programa de Educação e Tutoria - Bacharelado em Ciência da Computação. Essa experiência me proporcionou um aprimoramento significativo das minhas habilidades de trabalho em equipe, comunicação e liderança de projetos. Além disso, tive a oportunidade de me envolver em projetos relacionados à prototipação de telas e aplicativos, desenvolvimento web e mobile, e utilizei tecnologias como Git, Python e outras.
+
+Outra experiência relevante foi a minha participação como bolsista no Projeto Integrador Extensionista - "Implementando a análise automática de dados do sistema Consulta Pública". Nesse projeto, meu foco foi o Aprendizado de Máquina, especialmente em modelos de Processamento de Linguagem Natural. Desenvolvi modelos com o objetivo de extrair sentimentos de textos de consultas públicas e participei do desenvolvimento de APIs na AWS para automatizar a análise desses dados. Essa experiência me proporcionou um contato sólido com modelos estatísticos e Python, além de uma introdução ao FastAPI, Docker e Javascript.
+
+
+(About Me
+
+Currently, I am an undergraduate student in Computer Science at the Federal University of São Carlos (UFSCar). I have the honor of serving as an intern at the renowned SiDi research institute, where I am immersed in the exciting field of computer vision. In this role, I work with innovative solutions that encompass artificial intelligence, machine learning, and the fundamental concepts of computer vision. It's rewarding to be able to apply my theoretical knowledge to practical projects and collaborate with a team of experts.
+
+Additionally, I am presently engaged in a scientific initiation project as a PIBIC scholarship recipient, focusing on the area of computer vision, specifically the interpretation of neural networks. I am enthusiastic about the opportunity to deepen my knowledge in this captivating field, exploring advanced methods to understand and interpret the inner workings of these complex networks. This experience is providing me with invaluable learning and allowing me to contribute to the advancement of the field, aiming to apply the results in practical solutions.
+
+During my academic journey, I had the opportunity to work as a scholarship recipient in the Education and Tutoring Program - Bachelor's in Computer Science group. This experience significantly enhanced my team collaboration, communication, and project leadership skills. Furthermore, I had the chance to engage in projects related to screen prototyping and app development, both web and mobile, and utilized technologies such as Git, Python, and others.
+
+Another notable experience was my participation as a scholarship recipient in the Extensionist Integrator Project - "Implementing the automatic data analysis of the Public Consultation system". In this project, my focus was on Machine Learning, especially in Natural Language Processing models. I developed models aiming to extract sentiments from public consultation texts and took part in the development of APIs on AWS to automate the analysis of this data. This experience gave me solid exposure to statistical models and Python, along with an introduction to FastAPI, Docker, and Javascript.)
 
 <div align="center" style="margin-top: 50px">
   <a href="https://www.ufscar.br/" target="_blank">
